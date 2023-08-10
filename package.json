@@ -1,0 +1,20 @@
+{
+  "name": "us-city-triples-solver",
+  "version": "1.0.0",
+  "description": "Solver for us city triples quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conor Murphy",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@types/jsdom": "^21.1.1",
+    "axios": "^1.4.0",
+    "jsdom": "^22.1.0",
+    "puppeteer": "^21.0.2"
+  }
+}
