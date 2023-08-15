@@ -1,1 +1,7 @@
 node_modules
+/data
+
+
+# Added by cargo
+
+/target
